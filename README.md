@@ -3,4 +3,5 @@ For Intro to Programming & Data Science Course
 
 Kendall Kiersey
 Kendall.kiersey@gmail.com
-Used to share labs and final project
+
+Used to share labs and final projects
